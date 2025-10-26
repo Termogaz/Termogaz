@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Termogaz
-- 👀 I’m interested in Java, Jakarta EE, Wildfly
+- 👀 I’m interested in Rust, PowerShell, Java, Jakarta EE
 - 📫 How to reach me >>> onsys2012@gmail.com
 
 <!---
